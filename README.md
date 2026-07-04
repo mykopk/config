@@ -122,8 +122,6 @@ Please follow the existing code style and include types for new behavior where a
 
 This project is licensed under the **MIT** License.
 
----
-Company
 
 MYKO Pakistan
 
